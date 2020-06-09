@@ -1,0 +1,11 @@
+{
+  "AppSettings": {
+    "CsvHasHeaderRecord": "false",
+    "JsonRemoveQuotes": "true",
+    "JsonRemoveArrayIfSingleRecord": "true",
+    "InputType": "Csv",
+    "OutputType": "Json",
+    "InputFileName": "sample.csv",
+    "OutputFileName": "sample.json"
+  }
+}
